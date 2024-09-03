@@ -1,0 +1,1 @@
+export type SignInFlow = "SIGN_IN" | "SIGN_UP" | "FORGOT_PASSWORD";
