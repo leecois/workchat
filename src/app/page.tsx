@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <div>
       Logged in
-      <Button onClick={() => signOut()}>SignOut</Button>
+      <Button onClick={() => signOut()}>Sign Out</Button>
     </div>
   );
 }
